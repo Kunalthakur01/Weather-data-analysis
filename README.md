@@ -9,7 +9,8 @@ It demonstrates how to work with CSV files, clean data, and use Pandas & Matplot
 ## 📂 Dataset
 - **Name:** Weather Dataset  
 - **Format:** CSV file  
-- **Source:** [Add dataset source if public]  
+- **Source:** kaggle
+-   
 - **Key Columns:** Date/Time, Weather Condition, Wind Speed, Visibility, Temperature, Humidity, Pressure  
 
 ---
